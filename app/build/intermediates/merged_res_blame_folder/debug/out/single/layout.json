@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.nekretnineferit.app-mergeDebugResources-70:/layout/activity_login_or_register.xml",
+        "source": "com.nekretnineferit.app-main-73:/layout/activity_login_or_register.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-mergeDebugResources-70:/layout/fragment3_register.xml",
+        "source": "com.nekretnineferit.app-main-73:/layout/fragment3_register.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-mergeDebugResources-70:/layout/activity_browsing.xml",
+        "source": "com.nekretnineferit.app-main-73:/layout/activity_browsing.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-mergeDebugResources-70:/layout/vp_item_house_detail.xml",
+        "source": "com.nekretnineferit.app-main-73:/layout/vp_item_house_detail.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-mergeDebugResources-70:/layout/fragment6_house_details.xml",
+        "source": "com.nekretnineferit.app-main-73:/layout/fragment6_house_details.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-mergeDebugResources-70:/layout/fragment4_user_account.xml",
+        "source": "com.nekretnineferit.app-main-73:/layout/fragment4_user_account.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-mergeDebugResources-70:/layout/fragment0_start.xml",
+        "source": "com.nekretnineferit.app-main-73:/layout/fragment0_start.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-mergeDebugResources-70:/layout/rv_item_house.xml",
+        "source": "com.nekretnineferit.app-main-73:/layout/rv_item_house.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-mergeDebugResources-70:/layout/fragment2_login.xml",
+        "source": "com.nekretnineferit.app-main-73:/layout/fragment2_login.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-mergeDebugResources-70:/layout/fragment5_home.xml",
+        "source": "com.nekretnineferit.app-main-73:/layout/fragment5_home.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-mergeDebugResources-70:/layout/fragment1_signin_options.xml",
+        "source": "com.nekretnineferit.app-main-73:/layout/fragment1_signin_options.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-mergeDebugResources-70:/layout/fragment7_house_add.xml",
+        "source": "com.nekretnineferit.app-main-73:/layout/fragment7_house_add.xml"
+    }
+]

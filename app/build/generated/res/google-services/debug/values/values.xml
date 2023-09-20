@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">201352760780-7qokmiek28vqh8d0dlaib90anktd3nk4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">201352760780</string>
+    <string name="google_api_key" translatable="false">AIzaSyC2dWEuYLMJCRLk9C-Gr2O7YyouSrIVzNg</string>
+    <string name="google_app_id" translatable="false">1:201352760780:android:8444915ce7d5066f50a169</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC2dWEuYLMJCRLk9C-Gr2O7YyouSrIVzNg</string>
+    <string name="google_storage_bucket" translatable="false">nekretnineferit-c2024.appspot.com</string>
+    <string name="project_id" translatable="false">nekretnineferit-c2024</string>
+</resources>

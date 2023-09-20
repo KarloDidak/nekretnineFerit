@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65860718039",
+    "project_id": "nekretnineferit-tmp1109",
+    "storage_bucket": "nekretnineferit-tmp1109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65860718039:android:e271205a57934e66024f92",
+        "android_client_info": {
+          "package_name": "com.nekretnineferit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbSthlOTejmrBXFjyp478kwYioof6PMPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

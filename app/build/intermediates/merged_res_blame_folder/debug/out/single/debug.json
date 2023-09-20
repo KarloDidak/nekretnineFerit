@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_ic_refresh.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/xml_backup_rules.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_bg_btm_nav.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/bg_btm_nav.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/layout_activity_login_or_register.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/layout/activity_login_or_register.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_bg_btm_nav_item.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/bg_btm_nav_item.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/layout_fragment0_start.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/layout/fragment0_start.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/layout_rv_item_house.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/layout/rv_item_house.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.nekretnineferit.app-main-73:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/layout_fragment2_login.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/layout/fragment2_login.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_bg_btn_blue_grey.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/bg_btn_blue_grey.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/layout_vp_item_house_detail.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/layout/vp_item_house_detail.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.nekretnineferit.app-main-73:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_bg_search_box.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/bg_search_box.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/layout_fragment1_signin_options.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/layout/fragment1_signin_options.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/anim_to_right.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/anim/to_right.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_ic_search.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_ic_house.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/ic_house.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/anim_from_right.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/anim/from_right.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_ic_edit.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.nekretnineferit.app-main-73:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_ic_delete.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/navigation_login_register_graph.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/navigation/login_register_graph.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_bg_image.jpg.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/bg_image.jpg"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/navigation_browsing_graph.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/navigation/browsing_graph.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.nekretnineferit.app-main-73:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/layout_fragment6_house_details.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/layout/fragment6_house_details.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_ic_arrow.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/ic_arrow.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.nekretnineferit.app-main-73:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.nekretnineferit.app-main-73:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/anim_from_left.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/anim/from_left.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/anim_from_bottom.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/anim/from_bottom.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_ic_user_account.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/ic_user_account.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_ic_home.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/menu_bottom_navigation_menu.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_ic_plus.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/layout_fragment4_user_account.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/layout/fragment4_user_account.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/anim_to_left.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/anim/to_left.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/xml_data_extraction_rules.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/layout_fragment5_home.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/layout/fragment5_home.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_ic_logout.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.nekretnineferit.app-main-73:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.nekretnineferit.app-main-73:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/layout_fragment7_house_add.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/layout/fragment7_house_add.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/drawable_bg_btn_blue.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/drawable/bg_btn_blue.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.nekretnineferit.app-main-73:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/layout_fragment3_register.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/layout/fragment3_register.xml"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.nekretnineferit.app-main-73:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nekretnineferit.app-merged_res-71:/layout_activity_browsing.xml.flat",
+        "source": "com.nekretnineferit.app-main-73:/layout/activity_browsing.xml"
+    }
+]

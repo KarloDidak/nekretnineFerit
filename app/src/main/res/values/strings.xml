@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">NekretnineFerit</string>
+
+    <string name="iv_default">Slika</string>
+    <string name="tv_info1">Nekretnine Ferit</string>
+    <string name="tv_info2">Razvoj mobilnih aplikacija</string>
+    <string name="btn_start">Kreni!</string>
+
+    <string name="btn_register">Registracija</string>
+    <string name="btn_login">Prijava</string>
+    <string name="btn_browse">Nastavi bez prijave</string>
+    <string name="btn_save">Spremi</string>
+    <string name="btn_back">Povratak</string>
+    <string name="btn_confirm">Potvrdi</string>
+    <string name="btn_logout">Odjava</string>
+    <string name="btn_refresh">Osvjezi</string>
+    <string name="btn_add">Dodaj</string>
+    <string name="btn_update">Izmjeni</string>
+    <string name="btn_delete">Izbrisi</string>
+    <string name="btn_select_images">Odaberi slike…</string>
+
+    <string name="et_user_name_hint">Korisnicko ime</string>
+    <string name="et_email_hint">Email</string>
+    <string name="et_password_hint">Lozinka</string>
+
+    <string name="tv_profile">Moj profil</string>
+    <string name="tv_goto_register">Nemate racun? Registrirajte se</string>
+    <string name="tv_goto_login">Imate racun? Prijavite se</string>
+    <string name="logout_question">Zelite li se odjaviti?</string>
+
+    <string name="mn_home">Pocetna</string>
+    <string name="mn_user_account">Korisnicki racun</string>
+
+    <string name="tv_info">Informacije:</string>
+    <string name="tv_price">Cijena:</string>
+    <string name="tv_location">Lokacija:</string>
+    <string name="tv_area">Povrsina:</string>
+    <string name="tv_category">Kategorija: </string>
+    <string name="tv_description">Opis: </string>
+
+    <string name="tab_all">Sve</string>
+    <string name="tab_mine">Moje</string>
+    <string name="tab_rest">Ostalo</string>
+
+    <string name="tv_price_format">%1$s €</string>
+    <string name="tv_area_format">%1$s m2</string>
+
+    <string name="msg_delete">Brisanje</string>
+    <string name="msg_delete_confirm">Zelite li izbrisati kucu?</string>
+
+    <string name="error">Greska!</string>
+    <string name="error_firebase">Firebase greska:</string>
+    <string name="error_email_empty">Email nemoze biti prazan!</string>
+    <string name="error_email_invalid">Email nije validan!</string>
+    <string name="error_password_empty">Lozinka nemoze biti prazna!</string>
+    <string name="error_password_invalid">Lozinka mora biti najmanje 6 znakova!</string>
+    <string name="error_price_empty">Cijena nesmije biti prazna!</string>
+    <string name="error_location_empty">Lokacija nesmije biti prazna!</string>
+    <string name="error_area_empty">Povrsina nesmije biti prazna i mora biti veca od 0!</string>
+    <string name="error_category_empty">Kategorija nesmije biti prazna!</string>
+    <string name="error_description_empty">Opis nesmije biti prazan!</string>
+    <string name="error_images_empty">Morate odabrati bar jednu sliku!</string>
+
+    <string name="et_user_name_init">admin</string>
+    <string name="et_email_init">admin@admin.com</string>
+    <string name="et_password_init">adminadmin</string>
+    <string name="et_price_init">100000</string>
+    <string name="et_location_init">Osijek</string>
+    <string name="et_area_init">100</string>
+    <string name="et_category_init">Kuca</string>
+    <string name="et_description_init">Kuca u Osijeku</string>
+</resources>

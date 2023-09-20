@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/login_register_graph"
+    app:startDestination="@id/startFragment">
+
+    <fragment
+        android:id="@+id/startFragment"
+        android:name="com.nekretnineferit.fragments.loginOrRegister.StartFragment"
+        android:label="StartFragment"
+        tools:layout="@layout/fragment0_start">
+        <action
+            android:id="@+id/action_startFragment_to_signinOptionsFragment"
+            app:destination="@id/signinOptionsFragment"
+            app:enterAnim="@anim/from_bottom" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/signinOptionsFragment"
+        android:name="com.nekretnineferit.fragments.loginOrRegister.SigningOptionsFragment"
+        android:label="SigninOptionsFragment"
+        tools:layout="@layout/fragment1_signin_options">
+        <action
+            android:id="@+id/action_signinOptionsFragment_to_loginFragment"
+            app:destination="@id/loginFragment"
+            app:enterAnim="@anim/from_right"
+            app:exitAnim="@anim/to_left"
+            app:popEnterAnim="@anim/from_left"
+            app:popExitAnim="@anim/to_right" />
+        <action
+            android:id="@+id/action_signinOptionsFragment_to_registerFragment"
+            app:destination="@id/registerFragment"
+            app:enterAnim="@anim/from_right"
+            app:exitAnim="@anim/to_left"
+            app:popEnterAnim="@anim/from_left"
+            app:popExitAnim="@anim/to_right" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.nekretnineferit.fragments.loginOrRegister.LoginFragment"
+        android:label="LoginFragment"
+        tools:layout="@layout/fragment2_login">
+        <action
+            android:id="@+id/action_loginFragment_to_registerFragment"
+            app:destination="@id/registerFragment"
+            app:enterAnim="@anim/from_bottom"
+            app:popUpTo="@id/signinOptionsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/registerFragment"
+        android:name="com.nekretnineferit.fragments.loginOrRegister.RegisterFragment"
+        android:label="RegisterFragment"
+        tools:layout="@layout/fragment3_register">
+        <action
+            android:id="@+id/action_registerFragment_to_loginFragment"
+            app:destination="@id/loginFragment"
+            app:enterAnim="@anim/from_bottom"
+            app:popUpTo="@id/signinOptionsFragment" />
+    </fragment>
+</navigation>
